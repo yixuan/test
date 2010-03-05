@@ -1,1 +1,2 @@
-rnorm(24);
+a=rnorm(24);
+mean(a);
